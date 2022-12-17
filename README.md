@@ -10,7 +10,7 @@ Benchmark Datasets
 -----------------
 
 |  Dataset   | Samples  | Views | Clusters | Web
-|  ----  | ----  |
+|  ----  | ----  | ---- | ---- | ----
 | ORL    | 400   | 4 | 40 | <https://www.cnblogs.com/picassooo/p/12890078.html>
 | NUS    | 2400  | 6 | 12 | <https://dl.acm.org/doi/10.1145/1646396.1646452>
 | MSRC   | 210   | 5 | 7 
