@@ -1,4 +1,4 @@
-%%Readme
+%%Benchmark Datasets
 %%dataset introduction
 
 #1.ORL.mat 4 views 40 class (400,40)
@@ -20,3 +20,8 @@
 210*1302 210*48 210*512 210*100 210*256 210*210
 210张7种类别的图片的不同特征提取方式（6种：CENT, CMT, GIST, HOG, LBP, andSIFT）生成的图
 
+#7.3-Sources.mat 3 views 6 class (169，6)
+169*3560 169*3631 169*3068
+3个组织的169篇报道
+
+#7.3-Sources.mat 3 views 6 class (169，6)
