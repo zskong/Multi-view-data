@@ -1,0 +1,18 @@
+Dataset ACC NMI PURITY FSCORE TIME
+Dataset:Caltech101-20	 0.5947	 0.5641	 0.7045	 0.4303	 Time:32.3014
+
+Dataset:Caltech101-20	 0.5947	 0.5641	 0.7045	 0.4303	 Time:32.5461
+
+Dataset:Caltech101-20	 0.5947	 0.5641	 0.7045	 0.4303	 Time:30.3882
+
+Dataset:Caltech101-20	 0.5947	 0.5641	 0.7045	 0.4303	 Time:32.2950
+
+Dataset:Caltech101-20	 0.5947	 0.5641	 0.7045	 0.4303	 Time:32.2940
+Dataset:CCV	 0.1156	 0.0346	 0.1194	 0.1085	 Time:396.7498
+Dataset:Caltech101-all_fea	 0.1777	 0.2613	 0.2430	 0.0462	 Time:1109.3300
+Dataset:SUNRGBD_fea	 0.1113	 0.0202	 0.1144	 0.1215	 Time:1045.7867
+Dataset:NUSWIDEOBJ	 0.1221	 0.0095	 0.1227	 0.1140	 Time:17504.1105
+Dataset:AwA_fea	 0.0390	 0.0032	 0.0399	 0.0457	 Time:8097.0574
+
+Dataset:Caltech101-7	 0.5651	 0.5626	 0.8494	 0.5855	 Time:14.1900
+
