@@ -35,5 +35,5 @@ Benchmark Datasets
 | ALOI100 | 10800 | 4 | 100 | <https://elki-project.github.io/datasets/multi_view>
 | NUS_WIDE | 2000 | 5 | 31 | <https://github.com/youweiliang/Multi-view_Graph_Learning/tree/master/data>
 | Yale | 165 | 3 | 15 | <http://cvc.cs.yale.edu/cvc/projects/yalefaces/yalefaces.html>
-
+| Flower17 | 1360 | 7 | 17 | <https://www.robots.ox.ac.uk/~vgg/data/flowers/17/> 
 
