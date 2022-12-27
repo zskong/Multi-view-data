@@ -1,6 +1,6 @@
 Multi-view-subspace-clustering
 =================
-some examples for me 
+A repository for multi-view algorithms
 
 This is a warehouse maintained by me, including the source code and data set of multi-view clustering.
 
