@@ -36,4 +36,4 @@ Benchmark Datasets
 | NUS_WIDE | 2000 | 5 | 31 | <https://github.com/youweiliang/Multi-view_Graph_Learning/tree/master/data>
 | Yale | 165 | 3 | 15 | <http://cvc.cs.yale.edu/cvc/projects/yalefaces/yalefaces.html>
 | Flower17 | 1360 | 7 | 17 | <https://www.robots.ox.ac.uk/~vgg/data/flowers/17/> 
-
+| Youtube  | 1592 | 2 | 11 | 
