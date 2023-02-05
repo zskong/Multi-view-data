@@ -1,4 +1,4 @@
-At present, all method (including codes) that can be collected will be up to December 27, 2022.
+At present, all method (including codes) that can be collected will be up to February 5, 2023.
 -----------------
 
 Scalable Multi-view Clustering
