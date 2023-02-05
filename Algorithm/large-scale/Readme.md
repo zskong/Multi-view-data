@@ -13,6 +13,7 @@ Scalable Multi-view Clustering
 |  2021  | OPMC  |   ICCV(Conference)          | One-pass Multi-view Clustering for Large-scale Data                |
 |  2021  | SMVSC⭐ |   ACMMM(Conference)       | Scalable Multi-view Subspace Clustering with Unified Anchors       |
 |  2021  | SFMC  |   TPAMI(Journal)            | Multiview Clustering: A Scalable and Parameter-Free Bipartite Graph Fusion Method|
+|  2021  | LAPIN |   TCYB(Journal)             | Learning an Optimal Bipartite Graph for Subspace Clustering via Constrained Laplacian Rank|
 |  2022  | OMSC  |   SIGKDD(Conference)        | Efficient Orthogonal Multi-view Subspace Clustering                |
 |  2022  | FPMVS-CAG⭐ | TIP(Journal)          | Fast Parameter-Free Multi-View Subspace Clustering With Consensus Anchor Guidance |
 |  2022  | FMVACC |   NIPS(Conference)         | Align then Fusion: Generalized Large-scale Multi-view Clustering with Anchor Matching Correspondences|
