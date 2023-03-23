@@ -1,4 +1,4 @@
-Multi-view-subspace-clustering
+Multi-view-subspace-clustering datasets
 =================
 A repository for multi-view algorithms
 
