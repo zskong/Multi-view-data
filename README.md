@@ -2,9 +2,9 @@ Multi-view-subspace-clustering datasets
 =================
 A repository for multi-view algorithms
 
-This is a warehouse maintained by me, including the source code and data set of multi-view clustering.
+This is a repository maintained by me, including source code and datasets for multi-view clustering.
 
-%% The right of interpretation belongs to the authors
+%% Explanation rights belong to the author
 
 Benchmark Datasets
 -----------------
