@@ -37,3 +37,10 @@ Benchmark Datasets
 | Yale | 165 | 3 | 15 | <http://cvc.cs.yale.edu/cvc/projects/yalefaces/yalefaces.html>
 | Flower17 | 1360 | 7 | 17 | <https://www.robots.ox.ac.uk/~vgg/data/flowers/17/> 
 | Youtube  | 1592 | 2 | 11 | 
+| 2V_BDGP  | 2500 | 2 | 5  | <https://ranger.uta.edu/ heng/Drosophila>/paper:Reconsidering representation alignment for multi-view clustering
+| 2V_MNIST_USPS (visualization) | 5000 | 2 | 10 | <http://yann.lecun.com/exdb/mnist>&<http://www.cad.zju.edu.cn/home/dengcai/Data/MLData.html>
+| 3V_Fashion_MV (visualization) | 10000| 3 | 10 | <https://github.com/zalandoresearch/fashion-mnist>
+| RGB-D    | 1449 | 2 | 13 | <https://github.com/DanielTrosten/mvc>
+| Toydata_3 (visualization) | 3000 | 2 |  3 | synthetic datasets
+| Toydata_5 (visualization) | 2500 | 2 |  5 | synthetic datasets
+| VOC (PASCAL VOC 2007)     | 5649 | 2 | 20 | <https://github.com/DanielTrosten/mvc>
