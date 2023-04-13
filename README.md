@@ -71,6 +71,7 @@ YoutubeFace| 101499 | 5 | 31 | <https://www.cs.tau.ac.il/~wolf/ytfaces/>
 
  
 *Datasets are sorted in ascending order by sample size
+
 some source from https://github.com/wangsiwei2010/large_scale_multi-view_clustering_datasets &&
 https://github.com/wangsiwei2010/awesome-multi-view-clustering &&
 https://gitee.com/zhangfk/multi-view-dataset 
