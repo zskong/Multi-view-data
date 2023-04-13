@@ -43,7 +43,7 @@ Mfeat  | 2000 | 6 | 10 | <https://archive.ics.uci.edu/ml/datasets/Multiple+Featu
 NUS_WIDE | 2000 | 5 | 31 | <https://github.com/youweiliang/Multi-view_Graph_Learning/tree/master/data>
 Caltech101-20 | 2386| 6 | 20 | <http://www.vision.caltech.edu/ImageDatasets/Caltech101/>
 NUS    | 2400  | 6 | 12 | <https://dl.acm.org/doi/10.1145/1646396.1646452>
-2V_BDGP  | 2500 | 2 | 5  | <https://ranger.uta.edu/heng/Drosophila> /paper:Reconsidering representation alignment for multi-view clustering
+2V_BDGP  | 2500 | 2 | 5  | <https://ranger.uta.edu/heng/Drosophila> % <https://ieeexplore.ieee.org/document/9577966/>
 BDGP_fea | 2500 | 3 | 5  | <https://ranger.uta.edu/heng/Drosophila>
 Toydata_5 (visualization) | 2500 | 2 |  5 | Synthetic datasets
 Scene | 2688 | 4 | 8 | <https://mvrl.cse.wustl.edu/datasets/amos>
