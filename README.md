@@ -21,6 +21,7 @@ NGs    | 500   | 3 | 5 |
 20newsgroups| 500 | 3 | 5 | <http://ligmembres.imag.fr/grimal/data.html>
 Caltech101_3view | 512 | 3 | 11 | <https://hyper.ai/datasets/5258>
 BBCSport | 544 | 2 | 5 | <http://mlg.ucd.ie/datasets/segment.html>
+Notting-Hill | 550 | 3 | 5 | <https://ieeexplore.ieee.org/document/6619294/>
 Prokaryotic | 551 | 3 | 4 | <http://lin-group.cn/database/ppd/index.php>
 Reuters | 600 | 5 | 6 | <http://lig-membres.imag.fr/grimal/data.html>
 synthetic3d | 600 | 3 | 3 | Synthetic datasets
@@ -50,6 +51,7 @@ Scene | 2688 | 4 | 8 | <https://mvrl.cse.wustl.edu/datasets/amos>
 Wiki_fea | 2866 | 2 | 10 | <https://dumps.wikimedia.org/zhwiki/latest/>
 Toydata_3 (visualization) | 3000 | 2 |  3 | Synthetic datasets
 CiteSeer | 3312 | 2 | 6 | <http://lig-membres.imag.fr/grimal/data.html>
+NH_p4660 | 4660 | 3 | 5 | <https://ieeexplore.ieee.org/document/6619294/>
 2V_MNIST_USPS (visualization) | 5000 | 2 | 10 | <http://yann.lecun.com/exdb/mnist> && <http://www.cad.zju.edu.cn/home/dengcai/Data/MLData.html>
 VOC (PASCAL VOC 2007)     | 5649 | 2 | 20 | <https://github.com/DanielTrosten/mvc>
 CCV      | 6773 | 3 |  20 | <https://www.ee.columbia.edu/ln/dvmm/CCV/> 
