@@ -60,6 +60,7 @@ Caltech101-all_fea | 9144| 5 | 102 | <http://www.vision.caltech.edu/ImageDataset
 ALOI100 | 10800 | 4 | 100 | <https://elki-project.github.io/datasets/multi_view>
 Animal  | 11673 | 4 |  20 | <https://github.com/wangsiwei2010/large_scale_multi-view_clustering_datasets>
 STL-10  | 13000 | 3 |  10 | <https://cs.stanford.edu/~acoates/stl10/>
+Reuters | 18758 | 5 |  6  | <https://archive.ics.uci.edu/ml/datasets.html>
 NUSWIDEOBJ | 30000 | 5 | 31 | <https://lms.comp.nus.edu.sg/wp-content/uploads/2019/research/nuswide/NUS-WIDE.html>
 AwA_fea | 30475 | 4 |  20 | <http://cvml.ist.ac.at/AwA2/AwA2-data.zip>
 Caltech256_fea  | 30607 | 3 |  257 | <http://www.vision.caltech.edu/ImageDatasets/Caltech101/>
