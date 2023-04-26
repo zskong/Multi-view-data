@@ -42,6 +42,7 @@ HW2sources | 2000 | 2 | 10 | <http://archive.ics.uci.edu/ml/datasets/Multiple+Fe
 Handwritten | 2000 | 6 | 10 | <http://archive.ics.uci.edu/ml/datasets/Multiple+Features>
 Mfeat  | 2000 | 6 | 10 | <https://archive.ics.uci.edu/ml/datasets/Multiple+Features>
 NUS_WIDE | 2000 | 5 | 31 | <https://github.com/youweiliang/Multi-view_Graph_Learning/tree/master/data>
+LandUse-21|2100 | 3 | 21 | <https://hyper.ai/datasets/5431>
 Caltech101-20 | 2386| 6 | 20 | <http://www.vision.caltech.edu/ImageDatasets/Caltech101/>
 NUS    | 2400  | 6 | 12 | <https://dl.acm.org/doi/10.1145/1646396.1646452>
 2V_BDGP  | 2500 | 2 | 5  | <https://ranger.uta.edu/heng/Drosophila> && <https://ieeexplore.ieee.org/document/9577966/>
@@ -51,6 +52,7 @@ Scene | 2688 | 4 | 8 | <https://mvrl.cse.wustl.edu/datasets/amos>
 Wiki_fea | 2866 | 2 | 10 | <https://dumps.wikimedia.org/zhwiki/latest/>
 Toydata_3 (visualization) | 3000 | 2 |  3 | Synthetic datasets
 CiteSeer | 3312 | 2 | 6 | <http://lig-membres.imag.fr/grimal/data.html>
+Scene15  | 4485 | 3 | 15 | <https://figshare.com/articles/dataset/15-Scene_Image_Dataset/7007177>
 NH_p4660 | 4660 | 3 | 5 | <https://ieeexplore.ieee.org/document/6619294/>
 2V_MNIST_USPS (visualization) | 5000 | 2 | 10 | <http://yann.lecun.com/exdb/mnist> && <http://www.cad.zju.edu.cn/home/dengcai/Data/MLData.html>
 VOC (PASCAL VOC 2007)     | 5649 | 2 | 20 | <https://github.com/DanielTrosten/mvc>
