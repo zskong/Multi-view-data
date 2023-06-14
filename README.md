@@ -70,9 +70,10 @@ VGGFace2-50⭐ | 34027 | 4 | 50 | <https://hyper.ai/datasets/5711>
 CIFAR10 | 50000 | 3 |  10 | <http://www.cs.toronto.edu/~kriz/cifar.html>
 CIFAR100| 50000 | 3 | 100 | <http://www.cs.toronto.edu/~kriz/cifar.html>
 fmnist ⭐ | 60000 | 3 |  10 | <https://www.worldlink.com.cn/en/osdir/fashion-mnist.html>
+VGGFace4-100 | 72283 | 4 | 200 | <https://hyper.ai/datasets/5711>
 tinyimage | 100000 | 3 | 200 | <https://paperswithcode.com/dataset/tiny-imagenet>
 YoutubeFace⭐| 101499 | 5 | 31 | <https://www.cs.tau.ac.il/~wolf/ytfaces/>
-
+YouTubeFace50 | 126054 | 4 | 50 | <https://www.cs.tau.ac.il/~wolf/ytfaces/>
 
  
 *Datasets are sorted in ascending order by sample size
