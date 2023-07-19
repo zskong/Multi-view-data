@@ -59,6 +59,7 @@ VOC ⭐(PASCAL VOC 2007)     | 5649 | 2 | 20 | <https://github.com/DanielTrosten
 CCV ⭐     | 6773 | 3 |  20 | <https://www.ee.columbia.edu/ln/dvmm/CCV/> 
 Caltech101-all_fea⭐ | 9144| 5 | 102 | <http://www.vision.caltech.edu/ImageDatasets/Caltech101/>
 3V_Fashion_MV (visualization) | 10000| 3 | 10 | <https://github.com/zalandoresearch/fashion-mnist>
+SUNRGBD | 10335 | 2 | 45 |
 ALOI100 ⭐| 10800 | 4 | 100 | <https://elki-project.github.io/datasets/multi_view>
 Animal  | 11673 | 4 |  20 | <https://github.com/wangsiwei2010/large_scale_multi-view_clustering_datasets>
 STL-10 ⭐ | 13000 | 3 |  10 | <https://cs.stanford.edu/~acoates/stl10/>
