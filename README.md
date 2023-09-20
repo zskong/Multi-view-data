@@ -70,6 +70,7 @@ Caltech256_fea  | 30607 | 3 |  257 | <http://www.vision.caltech.edu/ImageDataset
 VGGFace2-50⭐ | 34027 | 4 | 50 | <https://hyper.ai/datasets/5711>
 CIFAR10 | 50000 | 3 |  10 | <http://www.cs.toronto.edu/~kriz/cifar.html>
 CIFAR100| 50000 | 3 | 100 | <http://www.cs.toronto.edu/~kriz/cifar.html>
+Noisy Mnist| 50000 | 2 | 10 | <http://proceedings.mlr.press/v37/wangb15.pdf>
 fmnist ⭐ | 60000 | 3 |  10 | <https://www.worldlink.com.cn/en/osdir/fashion-mnist.html>
 VGGFace4-100 | 72283 | 4 | 200 | <https://hyper.ai/datasets/5711>
 tinyimage | 100000 | 3 | 200 | <https://paperswithcode.com/dataset/tiny-imagenet>
