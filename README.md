@@ -25,6 +25,7 @@ Notting-Hill⭐ | 550 | 3 | 5 | <https://ieeexplore.ieee.org/document/6619294/>
 Prokaryotic | 551 | 3 | 4 | <http://lin-group.cn/database/ppd/index.php>
 Reuters | 600 | 5 | 6 | <http://lig-membres.imag.fr/grimal/data.html>
 synthetic3d | 600 | 3 | 3 | Synthetic datasets
+YaleB | 650 | 3 | 10 | <http://cvc.cs.yale.edu/cvc/projects/yalefacesB/yalefacesB.html>
 BBC4view_685 | 685 | 4 | 5 | <http://mlg.ucd.ie/datasets/segment.html>
 BBC | 685 | 4 | 5 | <http://mlg.ucd.ie/datasets/segment.html>
 WikipediaArticles | 693 | 2 | 10 | <https://github.com/wangsiwei2010/large_scale_multi-view_clustering_datasets>
