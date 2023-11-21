@@ -32,7 +32,7 @@ WikipediaArticles | 693 | 2 | 10 | <https://github.com/wangsiwei2010/large_scale
 proteinFold | 694 | 12 | 27 | <https://github.com/wangsiwei2010/large_scale_multi-view_clustering_datasets>
 WebKB2 | 1051 | 2 | 2 | <https://linqs.soe.ucsc.edu/data>
 Flower17⭐ | 1360 | 7 | 17 | <https://www.robots.ox.ac.uk/~vgg/data/flowers/17/> 
-COIL20⭐ (visualization)| 1440 | 3 | 20 | <http://www.cs.columbia.edu/CAVE/software/softlib/coil-20.php>
+COIL20⭐   | 1440 | 3 | 20 | <http://www.cs.columbia.edu/CAVE/software/softlib/coil-20.php>
 RGB-D⭐    | 1449 | 2 | 13 | <https://github.com/DanielTrosten/mvc>
 Caltech101-7 ⭐| 1474 | 6 | 7  | <http://www.vision.caltech.edu/ImageDatasets/Caltech101/>
 Reuters_21578 | 1500 | 5 | 6 | <https://archive.ics.uci.edu/ml/datasets/reuters-21578+text+categorization+collection>
@@ -56,8 +56,10 @@ CiteSeer | 3312 | 2 | 6 | <http://lig-membres.imag.fr/grimal/data.html>
 Scene15⭐  | 4485 | 3 | 15 | <https://figshare.com/articles/dataset/15-Scene_Image_Dataset/7007177>
 NH_p4660 | 4660 | 3 | 5 | <https://ieeexplore.ieee.org/document/6619294/>
 2V_MNIST_USPS (visualization) | 5000 | 2 | 10 | <http://yann.lecun.com/exdb/mnist> && <http://www.cad.zju.edu.cn/home/dengcai/Data/MLData.html>
+MITIndoor | 5360 | 4 | 67 | <http://web.mit.edu/torralba/www/indoor.html.>
 VOC ⭐(PASCAL VOC 2007)     | 5649 | 2 | 20 | <https://github.com/DanielTrosten/mvc>
 CCV ⭐     | 6773 | 3 |  20 | <https://www.ee.columbia.edu/ln/dvmm/CCV/> 
+Caltech101-all | 8677 | 4 | 101 |  <https://ieeexplore.ieee.org/abstract/document/1384978>
 Caltech101-all_fea⭐ | 9144| 5 | 102 | <http://www.vision.caltech.edu/ImageDatasets/Caltech101/>
 3V_Fashion_MV (visualization) | 10000| 3 | 10 | <https://github.com/zalandoresearch/fashion-mnist>
 SUNRGBD | 10335 | 2 | 45 |
