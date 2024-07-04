@@ -13,9 +13,11 @@ Dataset   | Samples  | Views | Clusters | Dimensions | Web
  ----  | ----  | ---- | ---- | ---- | ----
 Yale | 165 | 3 | 15 | 4096/3304/6750 | <http://cvc.cs.yale.edu/cvc/projects/yalefaces/yalefaces.html>
 3-Sources⭐ | 169 | 3 | 6 | 3560/3631/3068 | <http://mlg.ucd.ie/datasets/3sources.html>
+TwoMoon | 200 | 2 | 2 | 2/2 | Synthetic dataset
 webkb | 203 | 3 | 4 | 1703/230/230 | <https://linqs.soe.ucsc.edu/data>
 MSRC   | 210   | 5 | 7 | 24/576/512/256/254 | <https://www.cnblogs.com/picassooo/p/12890078.html>
 MSRCV1 | 210   | 6 | 7 | 1302/48/512/100/256/210 | <https://www.cnblogs.com/picassooo/p/12890078.html>
+ThreeRing | 300 | 2  | 3 | 2/2 | Synthetic dataset
 ORL    | 400   | 3 | 40 | 4096/3304/6750 | https://gitee.com/zhangfk/multi-view-dataset
 ORL    | 400   | 4 | 40 | 512/59/864/254 | https://gitee.com/zhangfk/multi-view-dataset
 NGs⭐    | 500   | 3 | 5 | 2000/2000/2000 | <http://ligmembres.imag.fr/grimal/data.html>
@@ -25,7 +27,7 @@ BBCSport⭐ | 544 | 2 | 5 | 3183/3203 | <http://mlg.ucd.ie/datasets/segment.html
 Notting-Hill⭐ | 550 | 3 | 5 | 2000/3304/6750 | <https://ieeexplore.ieee.org/document/6619294/>
 Prokaryotic | 551 | 3 | 4 | 438/3/393 | <http://lin-group.cn/database/ppd/index.php>
 Reuters | 600 | 5 | 6 | Need to deal| <http://lig-membres.imag.fr/grimal/data.html>
-synthetic3d | 600 | 3 | 3 | 3/3/3 | Synthetic datasets
+synthetic3d | 600 | 3 | 3 | 3/3/3 | Synthetic dataset
 CUB   | 600 | 2 | 10 | 1024/300 | <https://papers.nips.cc/paper/2019/file/11b9842e0a271ff252c1903e7132cd68-Paper.pdf>
 Movie | 617 | 2 | 17 | 1878/1398 | <https://lig-membres.imag.fr/grimal/data.html>
 YaleB | 650 | 3 | 10 | 2500/3304/6750 | <http://cvc.cs.yale.edu/cvc/projects/yalefacesB/yalefacesB.html>
@@ -55,21 +57,22 @@ YaleB_Extend (visualization) | 2424 | 5 | 38 | 1024/1024/1024/1024/1024 | <https
 NUS    | 2400  | 6 | 12 | 64/144/73/128/225/500 | <https://dl.acm.org/doi/10.1145/1646396.1646452>
 2V_BDGP  | 2500 | 2 | 5  | 1750/79 | <https://ranger.uta.edu/heng/Drosophila> && <https://ieeexplore.ieee.org/document/9577966/>
 BDGP_fea | 2500 | 3 | 5  | 1000/500/250 | <https://ranger.uta.edu/heng/Drosophila>
-Toydata_5 (visualization) | 2500 | 2 |  5 | 2/2 | Synthetic datasets
+Toydata_5 (visualization) | 2500 | 2 |  5 | 2/2 | Synthetic dataset
 Scene | 2688 | 4 | 8 | 512/432/256/48 | <https://mvrl.cse.wustl.edu/datasets/amos>
 Cora | 2708 | 2 | 7 |  1433/2708 | <https://github.com/032004129xuzhiyong/GCNII/tree/27a8717c1174883deb00eed766a15624b7bc2aa0/data> 
 Wiki_fea | 2866 | 2 | 10 | 128/10 | <https://dumps.wikimedia.org/zhwiki/latest/>
-Toydata_3 (visualization) | 3000 | 2 |  3 | 2/2 | Synthetic datasets
+Toydata_3 (visualization) | 3000 | 2 |  3 | 2/2 | Synthetic dataset
 CiteSeer | 3312 | 2 | 6 | 3312/3703 | <http://lig-membres.imag.fr/grimal/data.html>
 Scene15⭐  | 4485 | 3 | 15 | 20/59/40 | <https://figshare.com/articles/dataset/15-Scene_Image_Dataset/7007177>
 NH_p4660 | 4660 | 3 | 5 | 2000/3304/6750 | <https://ieeexplore.ieee.org/document/6619294/>
 2V_MNIST_USPS (visualization) | 5000 | 2 | 10 | 784/784 | <http://yann.lecun.com/exdb/mnist> && <http://www.cad.zju.edu.cn/home/dengcai/Data/MLData.html>
-MITIndoor | 5360 | 4 | 67 | <http://web.mit.edu/torralba/www/indoor.html.>
-VOC ⭐(PASCAL VOC 2007)     | 5649 | 2 | 20 | 512/399 | <https://github.com/DanielTrosten/mvc>
+MITIndoor | 5360 | 4 | 67 | 1770/3600/1240/4096 | <http://web.mit.edu/torralba/www/indoor.html.>
+VOC ⭐(PASCAL VOC 2007)  | 5649 | 2 | 20 | 512/399 | <https://github.com/DanielTrosten/mvc>
 CCV ⭐     | 6773 | 3 |  20 | 20/20/20 | <https://www.ee.columbia.edu/ln/dvmm/CCV/> 
-Caltech101-all | 8677 | 4 | 101 |  <https://ieeexplore.ieee.org/abstract/document/1384978>
+Caltech101-all | 8677 | 4 | 101 | 3540/4800/1240/2048 | <https://ieeexplore.ieee.org/abstract/document/1384978>
 Caltech101-all_fea⭐ | 9144| 5 | 102 | 48/40/254/512/928 | <http://www.vision.caltech.edu/ImageDatasets/Caltech101/>
-3V_Fashion_MV (visualization) | 10000 | 3 | 10 | <https://github.com/zalandoresearch/fashion-mnist>
+Fashion (visualization) | 10000 | 3 | 10 | <https://github.com/zalandoresearch/fashion-mnist>
+Hdigit | 10000 | 2 | 10 | 784/256 | 
 Mfeat | 10000 | 2 | 10 | 784/256 | <https://archive.ics.uci.edu/ml/datasets/Multiple+Features> 
 SUNRGBD | 10335 | 2 | 45 | 4096/4096 | 
 ALOI100 ⭐| 10800 | 4 | 100 | 77/13/64/125 | <https://elki-project.github.io/datasets/multi_view>
