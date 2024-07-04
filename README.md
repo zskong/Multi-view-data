@@ -39,7 +39,7 @@ COIL20⭐   | 1440 | 3 | 20 | 4096/3304/6750 | <http://www.cs.columbia.edu/CAVE/
 FuCOIL20    | 1440 | 3 | 20 | 1024/1024/324 | <http://www.cs.columbia.edu/CAVE/software/softlib/coil-20.php>
 RGB-D⭐    | 1449 | 2 | 13 | 2048/300 | <https://github.com/DanielTrosten/mvc>
 Caltech101-7 ⭐| 1474 | 6 | 7 | 48/40/254/1984/512/928 | <http://www.vision.caltech.edu/ImageDatasets/Caltech101/>
-GRAZ02 | 1476 | 6 | 4 | 512/32/256/500/500/680/ <http://www.emt.tugraz.at/~pinz/data/GRAZ_02>
+GRAZ02 | 1476 | 6 | 4 | 512/32/256/500/500/680 | <http://www.emt.tugraz.at/~pinz/data/GRAZ_02>
 Reuters_21578 | 1500 | 5 | 6 | 21531/24892/34251/15506/11547 | <https://archive.ics.uci.edu/ml/datasets/reuters-21578+text+categorization+collection>
 Youtube  | 1592 | 2 | 11 | <https://www.kaggle.com/datasnaek/youtube-new>
 100Leaves | 1600 | 3 | 100 | 64/64/64 | <https://archive.ics.uci.edu/ml/datasets/One-hundred+plant+species+leaves+data+set>
