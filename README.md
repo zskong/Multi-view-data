@@ -88,7 +88,7 @@ CIFAR100| 50000 | 3 | 100 | 1024/512/2048 | <http://www.cs.toronto.edu/~kriz/cif
 Noisy Mnist| 50000 | 2 | 10 | <http://proceedings.mlr.press/v37/wangb15.pdf>
 fmnist ⭐ | 60000 | 3 |  10 | 1280/512/512 | <https://www.worldlink.com.cn/en/osdir/fashion-mnist.html>
 MNIST | 60000 | 3 | 10 | 342/1024/64 | 
-VGGFace4-100 | 72283 | 4 | 200 | <https://hyper.ai/datasets/5711>
+VGGFace4-100 | 72283 | 4 | 200 | 944/576/512/640 |<https://hyper.ai/datasets/5711>
 tinyimage | 100000 | 3 | 200 | 1280/512/512 | <https://paperswithcode.com/dataset/tiny-imagenet>
 YoutubeFace⭐| 101499 | 5 | 31 | 64/512/64/647/838 | <https://www.cs.tau.ac.il/~wolf/ytfaces/>
 YouTubeFace50 | 126054 | 4 | 50 | 944/576/512/640 | <https://www.cs.tau.ac.il/~wolf/ytfaces/>
