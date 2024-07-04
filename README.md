@@ -43,7 +43,7 @@ RGB-D⭐    | 1449 | 2 | 13 | 2048/300 | <https://github.com/DanielTrosten/mvc>
 Caltech101-7 ⭐| 1474 | 6 | 7 | 48/40/254/1984/512/928 | <http://www.vision.caltech.edu/ImageDatasets/Caltech101/>
 GRAZ02 | 1476 | 6 | 4 | 512/32/256/500/500/680 | <http://www.emt.tugraz.at/~pinz/data/GRAZ_02>
 Reuters_21578 | 1500 | 5 | 6 | 21531/24892/34251/15506/11547 | <https://archive.ics.uci.edu/ml/datasets/reuters-21578+text+categorization+collection>
-Youtube  | 1592 | 2 | 11 | <https://www.kaggle.com/datasnaek/youtube-new>
+Youtube  | 1592 | 2 | 11 | - | <https://www.kaggle.com/datasnaek/youtube-new>
 100Leaves | 1600 | 3 | 100 | 64/64/64 | <https://archive.ics.uci.edu/ml/datasets/One-hundred+plant+species+leaves+data+set>
 UCI-Digits⭐ | 2000 | 3 | 10 | 64/76/216 | <http://archive.ics.uci.edu/ml/datasets>
 HW2sources | 2000 | 2 | 10 | 786/256 | <http://archive.ics.uci.edu/ml/datasets/Multiple+Features>
@@ -85,7 +85,7 @@ Caltech256_fea  | 30607 | 3 |  257 | 1024/512/2048 | <http://www.vision.caltech.
 VGGFace2-50⭐ | 34027 | 4 | 50 | 944/576/512/640 | <https://hyper.ai/datasets/5711>
 CIFAR10 | 50000 | 3 |  10 | 1024/512/2048 | <http://www.cs.toronto.edu/~kriz/cifar.html>
 CIFAR100| 50000 | 3 | 100 | 1024/512/2048 | <http://www.cs.toronto.edu/~kriz/cifar.html>
-Noisy Mnist| 50000 | 2 | 10 | <http://proceedings.mlr.press/v37/wangb15.pdf>
+Noisy Mnist| 50000 | 2 | 10 | 784/784/784 | <http://proceedings.mlr.press/v37/wangb15.pdf>
 fmnist ⭐ | 60000 | 3 |  10 | 1280/512/512 | <https://www.worldlink.com.cn/en/osdir/fashion-mnist.html>
 MNIST | 60000 | 3 | 10 | 342/1024/64 | 784/784 | <https://www.worldlink.com.cn/en/osdir/fashion-mnist.html>
 VGGFace4-100 | 72283 | 4 | 200 | 944/576/512/640 |<https://hyper.ai/datasets/5711>
