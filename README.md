@@ -50,8 +50,8 @@ HW2sources | 2000 | 2 | 10 | 786/256 | <http://archive.ics.uci.edu/ml/datasets/M
 Handwritten | 2000 | 6 | 10 | 64/76/216/6/240/47 | <http://archive.ics.uci.edu/ml/datasets/Multiple+Features>
 Mfeat  | 2000 | 6 | 10 | 64/76/216/6/240/47 | <https://archive.ics.uci.edu/ml/datasets/Multiple+Features>
 NUS_WIDE | 2000 | 5 | 31 | 65/226/145/74/129 | <https://github.com/youweiliang/Multi-view_Graph_Learning/tree/master/data>
-MNIST | 2000 | 3 | 10 | 30,9,30 | <https://github.com/032004129xuzhiyong/GCNII/tree/27a8717c1174883deb00eed766a15624b7bc2aa0/data>
-LandUse-21⭐| 2100 | 3 | 21 | 20,59,40 | <https://hyper.ai/datasets/5431>
+MNIST | 2000 | 3 | 10 | 30/9/30 | <https://github.com/032004129xuzhiyong/GCNII/tree/27a8717c1174883deb00eed766a15624b7bc2aa0/data>
+LandUse-21⭐| 2100 | 3 | 21 | 20/59/40 | <https://hyper.ai/datasets/5431>
 Caltech101-20⭐ | 2386 | 6 | 20 | 48/40/254/1984/512/928 | <http://www.vision.caltech.edu/ImageDatasets/Caltech101/>
 YaleB_Extend (visualization) | 2424 | 5 | 38 | 1024/1024/1024/1024/1024 | <https://github.com/032004129xuzhiyong/GCNII/tree/27a8717c1174883deb00eed766a15624b7bc2aa0/data> 
 NUS    | 2400  | 6 | 12 | 64/144/73/128/225/500 | <https://dl.acm.org/doi/10.1145/1646396.1646452>
@@ -71,7 +71,7 @@ VOC ⭐(PASCAL VOC 2007)  | 5649 | 2 | 20 | 512/399 | <https://github.com/Daniel
 CCV ⭐     | 6773 | 3 |  20 | 20/20/20 | <https://www.ee.columbia.edu/ln/dvmm/CCV/> 
 Caltech101-all | 8677 | 4 | 101 | 3540/4800/1240/2048 | <https://ieeexplore.ieee.org/abstract/document/1384978>
 Caltech101-all_fea⭐ | 9144| 5 | 102 | 48/40/254/512/928 | <http://www.vision.caltech.edu/ImageDatasets/Caltech101/>
-Fashion (visualization) | 10000 | 3 | 10 | <https://github.com/zalandoresearch/fashion-mnist>
+Fashion (visualization) | 10000 | 3 | 10 | 784/784/784 | <https://github.com/zalandoresearch/fashion-mnist>
 Hdigit | 10000 | 2 | 10 | 784/256 | 
 Mfeat | 10000 | 2 | 10 | 784/256 | <https://archive.ics.uci.edu/ml/datasets/Multiple+Features> 
 SUNRGBD | 10335 | 2 | 45 | 4096/4096 | 
@@ -87,7 +87,7 @@ CIFAR10 | 50000 | 3 |  10 | 1024/512/2048 | <http://www.cs.toronto.edu/~kriz/cif
 CIFAR100| 50000 | 3 | 100 | 1024/512/2048 | <http://www.cs.toronto.edu/~kriz/cifar.html>
 Noisy Mnist| 50000 | 2 | 10 | <http://proceedings.mlr.press/v37/wangb15.pdf>
 fmnist ⭐ | 60000 | 3 |  10 | 1280/512/512 | <https://www.worldlink.com.cn/en/osdir/fashion-mnist.html>
-MNIST | 60000 | 3 | 10 | 342/1024/64 | 784/784 | 
+MNIST | 60000 | 3 | 10 | 342/1024/64 | 784/784 | <https://www.worldlink.com.cn/en/osdir/fashion-mnist.html>
 VGGFace4-100 | 72283 | 4 | 200 | 944/576/512/640 |<https://hyper.ai/datasets/5711>
 tinyimage | 100000 | 3 | 200 | 1280/512/512 | <https://paperswithcode.com/dataset/tiny-imagenet>
 YoutubeFace⭐| 101499 | 5 | 31 | 64/512/64/647/838 | <https://www.cs.tau.ac.il/~wolf/ytfaces/>
