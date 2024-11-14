@@ -72,6 +72,7 @@ CCV ⭐     | 6773 | 3 |  20 | 20/20/20 | <https://www.ee.columbia.edu/ln/dvmm/C
 Caltech101-all | 8677 | 4 | 101 | 3540/4800/1240/2048 | <https://ieeexplore.ieee.org/abstract/document/1384978>
 Caltech101-all_fea⭐ | 9144| 5 | 102 | 48/40/254/512/928 | <http://www.vision.caltech.edu/ImageDatasets/Caltech101/>
 Fashion (visualization) | 10000 | 3 | 10 | 784/784/784 | <https://github.com/zalandoresearch/fashion-mnist>
+MNIST(small dimension) | 10000 | 3 | 10 | 30/9/30 | <https://github.com/dugzzuli/A-Survey-of-Multi-view-Clustering-Approaches>
 Hdigit | 10000 | 2 | 10 | 784/256 | 
 Mfeat | 10000 | 2 | 10 | 784/256 | <https://archive.ics.uci.edu/ml/datasets/Multiple+Features> 
 CIFAR10_deep | 10000 | 4 | 10 | 1000/1000/1000/2048 | 
