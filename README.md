@@ -24,6 +24,7 @@ ORL    | 400   | 4 | 40 | 512/59/864/254 | https://gitee.com/zhangfk/multi-view-
 NGs⭐    | 500   | 3 | 5 | 2000/2000/2000 | <http://ligmembres.imag.fr/grimal/data.html>
 20newsgroups| 500 | 3 | 5 | 2000/2000/2000 | <http://ligmembres.imag.fr/grimal/data.html>
 Caltech101_3view | 512 | 3 | 11 | 254/512/36 | <https://hyper.ai/datasets/5258>
+Forest | 523 | 2 | 4 | 9/18  | <https://archive.ics.uci.edu/dataset/333/forest+type+mapping>
 BBCSport⭐ | 544 | 2 | 5 | 3183/3203 | <http://mlg.ucd.ie/datasets/segment.html>
 Notting-Hill⭐ | 550 | 3 | 5 | 2000/3304/6750 | <https://ieeexplore.ieee.org/document/6619294/>
 Prokaryotic | 551 | 3 | 4 | 438/3/393 | <http://lin-group.cn/database/ppd/index.php>
