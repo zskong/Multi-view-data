@@ -18,6 +18,7 @@ webkb | 203 | 3 | 4 | 1703/230/230 | <https://linqs.soe.ucsc.edu/data>
 MSRC   | 210   | 5 | 7 | 24/576/512/256/254 | <https://www.cnblogs.com/picassooo/p/12890078.html>
 MSRCV1 | 210   | 6 | 7 | 1302/48/512/100/256/210 | <https://www.cnblogs.com/picassooo/p/12890078.html>
 ThreeRing | 300 | 2  | 3 | 2/2 | Synthetic dataset
+Dermatology| 366 | 2 | 6 | 11/22 | <https://archive.ics.uci.edu/dataset/33/dermatology>
 ORL    | 400   | 3 | 40 | 4096/3304/6750 | https://gitee.com/zhangfk/multi-view-dataset
 ORL    | 400   | 4 | 40 | 512/59/864/254 | https://gitee.com/zhangfk/multi-view-dataset
 NGs⭐    | 500   | 3 | 5 | 2000/2000/2000 | <http://ligmembres.imag.fr/grimal/data.html>
