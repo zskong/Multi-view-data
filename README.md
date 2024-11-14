@@ -35,6 +35,7 @@ BBC4view_685 | 685 | 4 | 5 | 4659/4633/4665/4684 | <http://mlg.ucd.ie/datasets/s
 WikipediaArticles | 693 | 2 | 10 | 128/10 |<https://github.com/wangsiwei2010/large_scale_multi-view_clustering_datasets>
 ProteinFold | 694 | 12 | 27 | 27/.../27 | <https://github.com/wangsiwei2010/large_scale_multi-view_clustering_datasets>
 WebKB2 | 1051 | 2 | 2 | 2949/334 | <https://linqs.soe.ucsc.edu/data>
+Reuters | 1200 | 5 | 6 | 2000/2000/2000/2000/2000 | <https://github.com/dugzzuli/A-Survey-of-Multi-view-Clustering-Approaches>
 Flower17⭐ | 1360 | 7 | 17 | 1360/.../1360 | <https://www.robots.ox.ac.uk/~vgg/data/flowers/17/> 
 COIL20_pca  | 1440 | 3 | 20 | 30/19/30 | <http://www.cs.columbia.edu/CAVE/software/softlib/coil-20.php>
 COIL20⭐   | 1440 | 3 | 20 | 4096/3304/6750 | <http://www.cs.columbia.edu/CAVE/software/softlib/coil-20.php>
