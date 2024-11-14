@@ -74,6 +74,7 @@ Caltech101-all_fea⭐ | 9144| 5 | 102 | 48/40/254/512/928 | <http://www.vision.c
 Fashion (visualization) | 10000 | 3 | 10 | 784/784/784 | <https://github.com/zalandoresearch/fashion-mnist>
 Hdigit | 10000 | 2 | 10 | 784/256 | 
 Mfeat | 10000 | 2 | 10 | 784/256 | <https://archive.ics.uci.edu/ml/datasets/Multiple+Features> 
+CIFAR10_deep | 10000 | 4 | 10 | 1000/1000/1000/2048 | 
 SUNRGBD | 10335 | 2 | 45 | 4096/4096 | 
 ALOI100 ⭐| 10800 | 4 | 100 | 77/13/64/125 | <https://elki-project.github.io/datasets/multi_view>
 Animal  | 11673 | 4 |  20 | 2689/2000/2001/2000 | <https://github.com/wangsiwei2010/large_scale_multi-view_clustering_datasets>
