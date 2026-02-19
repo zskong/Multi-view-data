@@ -1,6 +1,6 @@
-Multi-view-subspace-clustering datasets
+Multi-view datasets
 =================
-A repository for multi-view algorithms
+A repository for multi-view learning
 
 This is a repository maintained by me, including source code and datasets for multi-view clustering.
 
