@@ -101,7 +101,7 @@ YouTubeFace50 | 126054 | 4 | 50 | 944/576/512/640 | <https://www.cs.tau.ac.il/~w
  
 *Datasets are sorted in ascending order by sample size
 
-some source from https://github.com/wangsiwei2010/large_scale_multi-view_clustering_datasets &&
+some sources from https://github.com/wangsiwei2010/large_scale_multi-view_clustering_datasets &&
 https://github.com/wangsiwei2010/awesome-multi-view-clustering &&
 https://gitee.com/zhangfk/multi-view-dataset 
 
