@@ -3,7 +3,7 @@
 # 📚 Multi-View Datasets Repository
 **A curated collection of source code and datasets for Multi-view Learning & Clustering.**
 
-[![Datasets Count](https://img.shields.io/badge/Counts-86-blue.svg)](#)
+[![Datasets Count](https://img.shields.io/badge/Counts-92-blue.svg)](#)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](#)
 
 </div>
@@ -28,16 +28,20 @@ Jump to datasets based on sample size:
 ## 🟢 Small-scale Datasets
 *Sample size < 1,000*
 
-| Dataset | Samples | Views | Clusters | Dimensions | Source |
-| :--- | :---: | :---: | :---: | :--- | :---: |
+| Dataset | Samples | Views | Clusters | Dimensions | Source | Note |
+| :--- | :---: | :---: | :---: | :--- | :---: |:---: |
+| **CESC(Cervical squamous cell carcinoma)** | 124 | 4 | 3 | 2000/2000/311/219 | [Link](https://www.nature.com/articles/s41467-022-35031-9) | Multi-omics |
 | **Yale** | 165 | 3 | 15 | 4096/3304/6750 | [Link](http://cvc.cs.yale.edu/cvc/projects/yalefaces/yalefaces.html) |
 | **3-Sources ⭐** | 169 | 3 | 6 | 3560/3631/3068 | [Link](http://mlg.ucd.ie/datasets/3sources.html) |
 | **TwoMoon** | 200 | 2 | 2 | 2/2 | Synthetic dataset |
 | **webkb** | 203 | 3 | 4 | 1703/230/230 | [Link](https://linqs.soe.ucsc.edu/data) |
+| **Sonar** | 208 | 3 | 2 | 20/20/20 | |
 | **MSRC** | 210 | 5 | 7 | 24/576/512/256/254 | [Link](https://www.cnblogs.com/picassooo/p/12890078.html) |
 | **MSRCV1** | 210 | 6 | 7 | 1302/48/512/100/256/210 | [Link](https://www.cnblogs.com/picassooo/p/12890078.html) |
+| **LGG (Lower gradeg lioma)** | 267 | 4 | 3 | 2000/2000/333/209 | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9358980)) | Multi-omics |
 | **ThreeRing** | 300 | 2 | 3 | 2/2 | Synthetic dataset |
 | **Dermatology** | 366 | 2 | 6 | 11/22 | [Link](https://archive.ics.uci.edu/dataset/33/dermatology) |
+| **BRCA (Breast adenocar cinoma)**| 398 | 4 | 4 |  2000/2000/278/212 | [Link](https://www.nature.com/articles/s41586-021-04278-5) | Multi-omics |
 | **ORL** | 400 | 3 | 40 | 4096/3304/6750 | [Link](https://gitee.com/zhangfk/multi-view-dataset) |
 | **ORL** | 400 | 4 | 40 | 512/59/864/254 | [Link](https://gitee.com/zhangfk/multi-view-dataset) |
 | **NGs ⭐** | 500 | 3 | 5 | 2000/2000/2000 | [Link](http://ligmembres.imag.fr/grimal/data.html) |
@@ -61,8 +65,8 @@ Jump to datasets based on sample size:
 ## 🟡 Medium-scale Datasets
 *Sample size 1,000 - 10,000*
 
-| Dataset | Samples | Views | Clusters | Dimensions | Source |
-| :--- | :---: | :---: | :---: | :--- | :---: |
+| Dataset | Samples | Views | Clusters | Dimensions | Source | Note |
+| :--- | :---: | :---: | :---: | :--- | :---: | :---: |
 | **WebKB2** | 1051 | 2 | 2 | 2949/334 | [Link](https://linqs.soe.ucsc.edu/data) |
 | **Reuters** | 1200 | 5 | 6 | 2000/2000/2000/2000/2000 | [Link](https://github.com/dugzzuli/A-Survey-of-Multi-view-Clustering-Approaches) |
 | **Flower17 ⭐** | 1360 | 7 | 17 | 1360/.../1360 | [Link](https://www.robots.ox.ac.uk/~vgg/data/flowers/17/) |
@@ -112,14 +116,15 @@ Jump to datasets based on sample size:
 ## 🔴 Large-scale Datasets
 *Sample size > 10,000*
 
-| Dataset | Samples | Views | Clusters | Dimensions | Source |
-| :--- | :---: | :---: | :---: | :--- | :---: |
+| Dataset | Samples | Views | Clusters | Dimensions | Source | Note |
+| :--- | :---: | :---: | :---: | :--- | :---: | :---: |
 | **SUNRGBD** | 10335 | 2 | 45 | 4096/4096 | - |
 | **ALOI100 ⭐** | 10800 | 4 | 100 | 77/13/64/125 | [Link](https://elki-project.github.io/datasets/multi_view) |
 | **Animal** | 11673 | 4 | 20 | 2689/2000/2001/2000 | [Link](https://github.com/wangsiwei2010/large_scale_multi-view_clustering_datasets) |
 | **STL-10 ⭐** | 13000 | 3 | 10 | 1024/512/2048 | [Link](https://cs.stanford.edu/~acoates/stl10/) |
 | **Reuters** | 18758 | 5 | 6 | 21531/24892/34251/15506/11547 | [Link](https://archive.ics.uci.edu/ml/datasets.html) |
 | **NUSWIDEOBJ ⭐** | 30000 | 5 | 31 | 65/226/145/74/129 | [Link](https://lms.comp.nus.edu.sg/wp-content/uploads/2019/research/nuswide/NUS-WIDE.html) |
+| **MoisyMNIST ⭐** | 30000 | 2 | 10 | 784/784 | [Link](http://proceedings.mlr.press/v37/wangb15.pdf) |
 | **AwA_fea ⭐** | 30475 | 4 | 20 | 2688/2000/252/2000/2000/2000 | [Link](http://cvml.ist.ac.at/AwA2/AwA2-data.zip) |
 | **Caltech256_fea** | 30607 | 3 | 257 | 1024/512/2048 | [Link](http://www.vision.caltech.edu/ImageDatasets/Caltech101/) |
 | **VGGFace2-50 ⭐** | 34027 | 4 | 50 | 944/576/512/640 | [Link](https://hyper.ai/datasets/5711) |
@@ -132,6 +137,7 @@ Jump to datasets based on sample size:
 | **tinyimage** | 100000 | 3 | 200 | 1280/512/512 | [Link](https://paperswithcode.com/dataset/tiny-imagenet) |
 | **YoutubeFace ⭐**| 101499 | 5 | 31 | 64/512/64/647/838 | [Link](https://www.cs.tau.ac.il/~wolf/ytfaces/) |
 | **YouTubeFace50** | 126054 | 4 | 50 | 944/576/512/640 | [Link](https://www.cs.tau.ac.il/~wolf/ytfaces/) |
+| **YouTube** | 152549 | 3 | 65 | 1024/768/1152 | [Link](https://www.cs.tau.ac.il/~wolf/ytfaces/) |
 
 ---
 
