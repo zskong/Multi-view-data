@@ -30,7 +30,7 @@ Jump to datasets based on sample size:
 
 | Dataset | Samples | Views | Clusters | Dimensions | Source | Note |
 | :--- | :---: | :---: | :---: | :--- | :---: |:---: |
-| **<nobr>CESC(Cervical squamous cell carcinoma)</nobr>** | 124 | 4 | 3 | 2000/2000/311/219 | [Link](https://www.nature.com/articles/s41467-022-35031-9) | Multi-omics(mDNA,RNA,miRNA,RPPA) |
+| **<br>CESC</br>(Cervical squamous cell carcinoma)** | 124 | 4 | 3 | 2000/2000/311/219 | [Link](https://www.nature.com/articles/s41467-022-35031-9) | <br>Multi-omics</br>(mDNA,RNA,miRNA,RPPA) |
 | **Yale** | 165 | 3 | 15 | 4096/3304/6750 | [Link](http://cvc.cs.yale.edu/cvc/projects/yalefaces/yalefaces.html) |
 | **3-Sources ⭐** | 169 | 3 | 6 | 3560/3631/3068 | [Link](http://mlg.ucd.ie/datasets/3sources.html) |
 | **TwoMoon** | 200 | 2 | 2 | 2/2 | Synthetic dataset |
@@ -38,7 +38,8 @@ Jump to datasets based on sample size:
 | **Sonar** | 208 | 3 | 2 | 20/20/20 | |
 | **MSRC** | 210 | 5 | 7 | 24/576/512/256/254 | [Link](https://www.cnblogs.com/picassooo/p/12890078.html) |
 | **MSRCV1** | 210 | 6 | 7 | 1302/48/512/100/256/210 | [Link](https://www.cnblogs.com/picassooo/p/12890078.html) |
-| **LGG (Lower gradeg lioma)** | 267 | 4 | 3 | 2000/2000/333/209 | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9358980)) | Multi-omics |
+| **GBM (Glioblastoma multiforme)** | 248 | 3 | 4 | 534/5000/12042 | [Link](https://link.springer.com/article/10.1007/s13755-024-00274-x) | Multi-omics(Gene expression,miRNA,DNA) |
+| **LGG (Lower gradeg lioma)** | 267 | 4 | 3 | 2000/2000/333/209 | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9358980) | Multi-omics |
 | **ThreeRing** | 300 | 2 | 3 | 2/2 | Synthetic dataset |
 | **Dermatology** | 366 | 2 | 6 | 11/22 | [Link](https://archive.ics.uci.edu/dataset/33/dermatology) |
 | **BRCA (Breast adenocar cinoma)**| 398 | 4 | 4 |  2000/2000/278/212 | [Link](https://www.nature.com/articles/s41586-021-04278-5) | Multi-omics |
