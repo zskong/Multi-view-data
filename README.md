@@ -30,7 +30,7 @@ Jump to datasets based on sample size:
 
 | Dataset | Samples | Views | Clusters | Dimensions | Source | Note |
 | :--- | :---: | :---: | :---: | :--- | :---: |:---: |
-| **CESC(Cervical squamous cell carcinoma)** | 124 | 4 | 3 | 2000/2000/311/219 | [Link](https://www.nature.com/articles/s41467-022-35031-9) | Multi-omics |
+| **<nobr>CESC(Cervical squamous cell carcinoma)</nobr>** | 124 | 4 | 3 | <nobr>2000/2000/311/219</nobr> | [Link](https://www.nature.com/articles/s41467-022-35031-9) | Multi-omics |
 | **Yale** | 165 | 3 | 15 | 4096/3304/6750 | [Link](http://cvc.cs.yale.edu/cvc/projects/yalefaces/yalefaces.html) |
 | **3-Sources ⭐** | 169 | 3 | 6 | 3560/3631/3068 | [Link](http://mlg.ucd.ie/datasets/3sources.html) |
 | **TwoMoon** | 200 | 2 | 2 | 2/2 | Synthetic dataset |
