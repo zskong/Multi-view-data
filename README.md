@@ -3,7 +3,7 @@
 # 📚 Multi-View Datasets Repository
 **A curated collection of source code and datasets for Multi-view Learning & Clustering.**
 
-[![Datasets Count](https://img.shields.io/badge/Counts-92-blue.svg)](#)
+[![Datasets Count](https://img.shields.io/badge/Counts-96-blue.svg)](#)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](#)
 
 </div>
