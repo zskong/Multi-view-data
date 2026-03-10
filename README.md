@@ -60,7 +60,7 @@ Jump to datasets based on sample size:
 | **BBC4view_685** | 685 | 4 | 5 | 4659/4633/4665/4684 | [Link](http://mlg.ucd.ie/datasets/segment.html) |
 | **WikipediaArticles** | 693 | 2 | 10 | 128/10 | [Link](https://github.com/wangsiwei2010/large_scale_multi-view_clustering_datasets) |
 | **ProteinFold** | 694 | 12 | 27 | 27/.../27 | [Link](https://github.com/wangsiwei2010/large_scale_multi-view_clustering_datasets) |
-
+| **Oxford** | 800 | 3 | 4 | 1764/10/128| [Link](https://ieeexplore.ieee.org/document/6248092) |
 ---
 
 ## 🟡 Medium-scale Datasets
@@ -98,6 +98,7 @@ Jump to datasets based on sample size:
 | **Wiki_fea** | 2866 | 2 | 10 | 128/10 | [Link](https://dumps.wikimedia.org/zhwiki/latest/) |
 | **Toydata_3** (visualization) | 3000 | 2 | 3 | 2/2 | Synthetic dataset |
 | **CiteSeer** | 3312 | 2 | 6 | 3312/3703 | [Link](http://lig-membres.imag.fr/grimal/data.html) |
+| **ImageNet** | 4000 | 3 | 4 | 1764/10/128 | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0031320326003900) |
 | **Scene15 ⭐** | 4485 | 3 | 15 | 20/59/40 | [Link](https://figshare.com/articles/dataset/15-Scene_Image_Dataset/7007177) |
 | **NH_p4660** | 4660 | 3 | 5 | 2000/3304/6750 | [Link](https://ieeexplore.ieee.org/document/6619294/) |
 | **2V_MNIST_USPS** (visualization) | 5000 | 2 | 10 | 784/784 | [Link](http://yann.lecun.com/exdb/mnist) |
@@ -124,11 +125,13 @@ Jump to datasets based on sample size:
 | **Animal** | 11673 | 4 | 20 | 2689/2000/2001/2000 | [Link](https://github.com/wangsiwei2010/large_scale_multi-view_clustering_datasets) |
 | **STL-10 ⭐** | 13000 | 3 | 10 | 1024/512/2048 | [Link](https://cs.stanford.edu/~acoates/stl10/) |
 | **Reuters** | 18758 | 5 | 6 | 21531/24892/34251/15506/11547 | [Link](https://archive.ics.uci.edu/ml/datasets.html) |
+| **Cifar10-4** | 20000 | 3 | 4 | 324/10/128 | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0031320326003900) |
 | **NUSWIDEOBJ ⭐** | 30000 | 5 | 31 | 65/226/145/74/129 | [Link](https://lms.comp.nus.edu.sg/wp-content/uploads/2019/research/nuswide/NUS-WIDE.html) |
 | **MoisyMNIST ⭐** | 30000 | 2 | 10 | 784/784 | [Link](http://proceedings.mlr.press/v37/wangb15.pdf) |
 | **AwA_fea ⭐** | 30475 | 4 | 20 | 2688/2000/252/2000/2000/2000 | [Link](http://cvml.ist.ac.at/AwA2/AwA2-data.zip) |
 | **Caltech256_fea** | 30607 | 3 | 257 | 1024/512/2048 | [Link](http://www.vision.caltech.edu/ImageDatasets/Caltech101/) |
 | **VGGFace2-50 ⭐** | 34027 | 4 | 50 | 944/576/512/640 | [Link](https://hyper.ai/datasets/5711) |
+| **Cifar10-8** | 40000 | 3 | 8 | 324/10/128 | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0031320326003900) |
 | **CIFAR10** | 50000 | 3 | 10 | 1024/512/2048 | [Link](http://www.cs.toronto.edu/~kriz/cifar.html) |
 | **CIFAR100** | 50000 | 3 | 100 | 1024/512/2048 | [Link](http://www.cs.toronto.edu/~kriz/cifar.html) |
 | **Noisy Mnist** | 50000 | 2 | 10 | 784/784/784 | [Link](http://proceedings.mlr.press/v37/wangb15.pdf) |
