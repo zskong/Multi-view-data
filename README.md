@@ -134,7 +134,7 @@ Jump to datasets based on sample size:
 | **Cifar10-8** | 40000 | 3 | 8 | 324/10/128 | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0031320326003900) |
 | **CIFAR10** | 50000 | 3 | 10 | 1024/512/2048 | [Link](http://www.cs.toronto.edu/~kriz/cifar.html) |
 | **CIFAR100** | 50000 | 3 | 100 | 1024/512/2048 | [Link](http://www.cs.toronto.edu/~kriz/cifar.html) |
-| **Noisy Mnist** | 50000 | 2 | 10 | 784/784/784 | [Link](http://proceedings.mlr.press/v37/wangb15.pdf) |
+| **Noisy Mnist** | 50000 | 2 | 10 | 784/784 | [Link](http://proceedings.mlr.press/v37/wangb15.pdf) |
 | **fmnist ⭐** | 60000 | 3 | 10 | 1280/512/512 | [Link](https://www.worldlink.com.cn/en/osdir/fashion-mnist.html) |
 | **MNIST** | 60000 | 3 | 10 | 342/1024/64 \| 784/784 | [Link](https://www.worldlink.com.cn/en/osdir/fashion-mnist.html) |
 | **VGGFace4-100** | 72283 | 4 | 200 | 944/576/512/640 | [Link](https://hyper.ai/datasets/5711) |
